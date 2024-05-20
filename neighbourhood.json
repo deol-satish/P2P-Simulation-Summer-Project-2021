@@ -1,0 +1,166 @@
+{
+    "neighbourhood": [
+        {
+            "neighbourhood_name": "neighbourhoodA",
+            "simulstartdate": "2019-07-20-08-00-00",
+            "simulenddate": "2019-07-21-10-00-00",
+            "House": [
+                {
+                    "House_Name": "HouseA",
+                    "appliances": [
+                        {
+                            "appliance_name": "refrigerator1",
+                            "data": "refrigerator1.csv"
+                        },
+                        {
+                            "appliance_name": "microwave1",
+                            "data": "microwave1.csv",
+                            "occurences": "07:00:00,13:00:00,19:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "clotheswasher1",
+                            "data": "clotheswasher1.csv",
+                            "occurences": "09:00:00,19:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "heater1",
+                            "data": "heater1.csv"
+                        }
+                    ],
+                    "House Structure": [
+                        {
+                            "structure_name": "OfficeRoom",
+                            "appliances_in_structure": []
+                        },
+                        {
+                            "structure_name": "KitchenRoom",
+                            "appliances_in_structure": []
+                        }
+                    ]
+                },
+                {
+                    "House_Name": "HouseB",
+                    "appliances": [
+                        {
+                            "appliance_name": "microwave1",
+                            "data": "microwave1.csv",
+                            "occurences": "08:30:00,12:30:00,18:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "clotheswasher1",
+                            "data": "clotheswasher1.csv",
+                            "occurences": "06:45:00,18:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "heater1",
+                            "data": "heater1.csv"
+                        }
+                    ],
+                    "House Structure": [
+                        {
+                            "structure_name": "OfficeRoom",
+                            "appliances_in_structure": []
+                        },
+                        {
+                            "structure_name": "KitchenRoom",
+                            "appliances_in_structure": []
+                        }
+                    ]
+                }
+            ],
+            "format": {
+                "frequency": "1min"
+            },
+            "environment": {
+                "month": "June",
+                "Latitude": 23.45,
+                "Longitutde": 67.7
+            }
+        },
+        {
+            "neighbourhood_name": "neighbourhoodB",
+            "simulstartdate": "2019-07-20-08-00-00",
+            "simulenddate": "2019-07-21-10-00-00",
+            "House": [
+                {
+                    "House_Name": "HouseA",
+                    "appliances": [
+                        {
+                            "appliance_name": "refrigerator1",
+                            "data": "refrigerator1.csv"
+                        },
+                        {
+                            "appliance_name": "microwave1",
+                            "data": "microwave1.csv",
+                            "occurences": "07:00:00,13:00:00,19:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "clotheswasher1",
+                            "data": "clotheswasher1.csv",
+                            "occurences": "09:00:00,19:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "heater1",
+                            "data": "heater1.csv"
+                        }
+                    ],
+                    "House Structure": [
+                        {
+                            "structure_name": "OfficeRoom",
+                            "appliances_in_structure": []
+                        },
+                        {
+                            "structure_name": "KitchenRoom",
+                            "appliances_in_structure": []
+                        }
+                    ]
+                },
+                {
+                    "House_Name": "HouseB",
+                    "appliances": [
+                        {
+                            "appliance_name": "microwave1",
+                            "data": "microwave1.csv",
+                            "occurences": "08:30:00,12:30:00,18:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "clotheswasher1",
+                            "data": "clotheswasher1.csv",
+                            "occurences": "06:45:00,18:00:00",
+                            "data_options": "RawData"
+                        },
+                        {
+                            "appliance_name": "heater1",
+                            "data": "heater1.csv"
+                        }
+                    ],
+                    "House Structure": [
+                        {
+                            "structure_name": "OfficeRoom",
+                            "appliances_in_structure": []
+                        },
+                        {
+                            "structure_name": "KitchenRoom",
+                            "appliances_in_structure": []
+                        }
+                    ]
+                }
+            ],
+            "format": {
+                "frequency": "1min"
+            },
+            "environment": {
+                "month": "June",
+                "Latitude": 23.45,
+                "Longitutde": 67.7
+            }
+        }
+    ]
+}
